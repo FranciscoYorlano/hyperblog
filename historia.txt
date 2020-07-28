@@ -1,5 +1,0 @@
-Este es un curso de Git y Git Hub
-
-Parece complicado pero no lo es.
-
-Hoy lo podre terminar!!
